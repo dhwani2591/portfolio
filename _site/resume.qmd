@@ -1,0 +1,86 @@
+---
+title: "Resume"
+---
+
+# Dhwani Modi
+
+New York, New York 10025 \| (646) 656-2102 \| modidhwani21\@gmail.com \| [linkedin.com/in/dhwanimodi21](https://www.linkedin.com/in/dhwanimodi21)
+
+------------------------------------------------------------------------
+
+## Education
+
+**New York University**, New York, NY\
+Master of Arts in Industrial and Organizational Psychology\
+*September 2023 – May 2025*\
+GPA: 3.87\
+Relevant coursework: Organization Development, Employee Training, Leadership and Strategic Change, Management Consulting, Performance Measurement & Rewards, Machine Learning, Conflict and Negotiation, Databases for Business Analytics.
+
+**Pandit Deendayal Energy University**, Gandhinagar, Gujarat, India\
+Bachelor of Arts (Honors) in Psychology\
+*July 2019 – May 2023*
+
+------------------------------------------------------------------------
+
+## Projects
+
+### Machine Learning Project (New York University)
+
+*March 2025 – April 2025*\
+- Built and evaluated classification models (Random Forest, Decision Trees, Logistic Regression, Naïve Bayes Classification) to predict trust levels in neighborhoods using demographic and perception survey data.\
+- Achieved 75.6% model accuracy; evaluated performance using confusion matrices, precision/recall, and kappa statistics.\
+- Conducted feature‐importance analysis to interpret key predictors, including income level, civic participation, and neighborhood safety.
+
+### Performance Measurement: Business Presentation (New York University)
+
+*September 2024 – December 2024*\
+- Analyzed a tech company’s performance management system, including appraisal tools, evaluation criteria, and 360-degree feedback.\
+- Assessed links between performance ratings and outcomes like pay, development, and promotion.\
+- Proposed improvements using Behaviorally Anchored Rating Scales (BARS) and best practices to enhance fairness and consistency.\
+- Recommended manager training using the 70-20-10 model and delivered findings in a team presentation.
+
+### Keystone Case Competition (New York University)
+
+*October 2024*\
+- Served as the leadership expert on a cross‐functional team in a university-level consulting competition.\
+- Analyzed a human resource management problem for a client, applying change-management frameworks to assess workplace challenges and suggest actionable solutions.\
+- Collaborated to identify key issues and develop a comprehensive strategy based on qualitative and quantitative analysis.\
+- Presented findings to a panel of industry experts, integrating both data‐driven insights and practical recommendations.
+
+### Employee Training in Organizations: Case Study Presentation (New York University)
+
+*January 2024 – May 2024*\
+- Conducted a comprehensive needs assessment for training programs, identifying KSAOs required by physicians and medical staff to leverage AI in diagnostics and patient care.\
+- Developed customized training environments, incorporating AI fundamentals and ethical/legal guidelines tailored for healthcare.\
+- Created innovative learning methods (VR simulations, live webinars, e-learning platforms) to ensure effective knowledge transfer.\
+- Established a structured evaluation plan to measure training success via direct observation, feedback loops, and on-the-job assessments.
+
+------------------------------------------------------------------------
+
+## Research Experience
+
+### Research Project: Factors Affecting Employee Perceptions of Professional Development in a Remote Work Setting (New York University)
+
+*January 2024 – May 2024*\
+- Designed the research study and created a questionnaire targeting variables related to professional development and remote work.\
+- Performed statistical analysis (Descriptive Statistics, Individual t-tests, ANOVA, Correlation, Regression) in R to examine relationships between variables.\
+- Presented findings and recommendations to improve training and mentoring initiatives aimed at enhancing employee satisfaction and retention.
+
+### Dissertation: Impact of Work-Life Balance on Employee Turnover Intentions And Determining Factors Causing Job Dissatisfaction (Pandit Deendayal Energy University)
+
+*January 2023 – May 2023*\
+- Designed the research study and crafted a questionnaire measuring work-life balance, job satisfaction, and turnover intentions.\
+- Conducted statistical analysis (Descriptive Statistics, ANOVA, Correlation, Regression) in Excel to evaluate the relationship between work-life balance factors and employee retention.\
+- Presented findings and recommendations to the dissertation panel, emphasizing practical implications for organizational policy and employee well-being.
+
+------------------------------------------------------------------------
+
+## Skills
+
+-   **Statistical & Data Tools:** R, SQL, Microsoft Office, Qualtrics\
+-   **Machine Learning:** Naïve Bayes, Decision Trees, Random Forest, Logistic Regression\
+-   **Data Visualization & Analysis:** Data Collection, Statistical Analysis, Business Presentation, Data Visualization
+-   **I/O Psychology:** Survey Design, Needs Assessment, Training & Development, Performance Measurement, Consulting\
+-   **Soft Skills:** Leadership, Team Collaboration, Communication, Strategic Thinking
+
+------------------------------------------------------------------------

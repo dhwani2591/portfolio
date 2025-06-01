@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dhwani Modi | I/O Psychology & Data Analytics"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+format:
+  html:
+    theme: "cosmo"   # switch from flatly → cosmo
+    css: styles.css
+    include-in-header:
+      - text: |
+          <!-- AOS (if you kept it) -->
+          <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
+      - text: |
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+          <script>
+            document.addEventListener('DOMContentLoaded', function() {
+              AOS.init({ duration: 800, once: true });
+            });
+          </script>

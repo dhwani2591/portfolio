@@ -1,0 +1,57 @@
+---
+title: "Home"
+---
+
+::: {.about-callout .fade-in .section-container}
+<strong>Mission:</strong> My goal is to help translate employee and organizational data into evidence‐based, people‐centric strategies that drive performance, engagement, and sustainable change. By combining rigorous analytics with insights from Industrial and Organizational Psychology, I design evidence‐based interventions that boost individual well‐being, strengthen team collaboration, and align leadership practices with organizational goals. Ultimately, my mission is to foster a culture of continuous learning and innovation so companies can achieve sustainable performance gains, higher engagement, and inclusive workplaces.
+:::
+
+::::: section-container
+## About Me
+
+::: fade-in
+Graduated with Master’s in Industrial & Organizational Psychology from New York University, where I specialize in combining qualitative research, advanced statistical analysis, and machine‐learning techniques to solve real‐world business problems.
+:::
+
+::: {.fade-in style="margin-top:1rem;"}
+Before NYU, I earned my B.A. (Honors) in Psychology from Pandit Deendayal Energy University in India, where I graduated in May 2023. My undergraduate thesis explored factors affecting work‐life balance and turnover intentions, laying the groundwork for my passion in aligning organizational policy with employee well‐being.
+:::
+:::::
+
+<!-- ==== Skills Snapshot (Two Columns) ==== -->
+
+:::::: section-container
+## Skills
+
+::::: row
+::: {.col-md-6 .fade-in}
+### I/O Psychology & Consulting
+
+-   Survey Design & Analysis\
+-   Employee Engagement Interventions\
+-   Performance Measurement\
+-   Training Need Assessments\
+-   Change Management
+:::
+
+::: {.col-md-6 .fade-in}
+### Data & Machine Learning
+
+-   R
+-   SQL
+-   Power BI
+-   Naïve Bayes, Decision Trees, Random Forest
+-   Statistical Modeling (ANOVA, Regression, T-test)
+:::
+:::::
+::::::
+
+<!-- ==== Contact Prompt ==== -->
+
+::: {.section-container .text-center .fade-in}
+<p>Interested in people‐powered analytics or collaborative research?</p>
+
+<a href="contact.html" class="btn btn-primary">Get in Touch</a>
+:::
+
+------------------------------------------------------------------------

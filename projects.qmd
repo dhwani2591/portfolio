@@ -1,0 +1,27 @@
+---
+title: "Projects"
+---
+
+Below are a few highlights of my consulting, research, and capstone work. Click any link to open the full PDF.
+
+1.  [Boeing Cultural & Leadership Transformation](projects/Boeing%20Proposal.pdf)\
+    *Dec 2024*\
+    Diagnosed leadership and cultural breakdowns after the 737 Max crashes; proposed a mission overhaul, ethics committee, and KPI framework to rebuild trust.
+
+2.  [Listen Wellness: EAP Business Plan](projects/Business%20Project.pdf)\
+    *Dec 2024*\
+    Developed a full business plan targeting India’s manufacturing workforce with market analysis, funding projections, and ROI metrics (e.g., 20% absenteeism reduction).
+
+3.  [Remote Work Professional Development Study](projects/Factors%20Affecting%20Employee%20Perceptions%20of%20Professional%20Development%20in%20a%20Remote%20Work%20Setting_DhwaniModi.pdf)\
+    *May 2024*\
+    Surveyed 35 remote employees in R; ran t-tests, ANOVA, correlation, regression—recommended virtual mentorship programs and feedback loops.
+
+4.  [Dissertation: Work-Life Balance & Turnover Intentions](projects/Impact%20of%20Work-Life%20Balance%20on%20Employee%20Turnover%20Intentions%20and%20Determining%20the%20Factors%20Causing%20Job%20Dissatisfaction.pdf)\
+    *May 2023*\
+    Analyzed work-life factors via descriptive stats, ANOVA, correlation, regression in Excel; offered recommendations to reduce turnover and boost well-being.
+
+5.  [M&A Case Study: GRS & MejorVida](projects/M&A%20case%20study.pdf)\
+    *Nov 2023*\
+    Diagnosed cultural distance in a cross-border acquisition; used McKinsey’s model to design integration workshops, 360-feedback, and a phased OD plan.
+
+------------------------------------------------------------------------
