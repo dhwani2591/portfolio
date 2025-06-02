@@ -1,16 +1,16 @@
 /* ========================================================================
-   styles.css – Minimal violet & light-purple theme overrides
+   styles.css – Neutral/minimal palette with a soft violet accent
    ======================================================================== */
 
-/* 1) Define a soft violet palette as CSS variables */
+/* 1) Define a neutral palette as CSS variables */
 :root {
-  /* Primary (buttons, links, headings) */
-  --bs-primary:       #7C63B1;  /* muted violet */
+  /* Primary (links, buttons, headings) */
+  --bs-primary:       #7C63B1;  /* soft muted violet */
   /* Secondary (navbar background, card accents) */
-  --bs-secondary:     #D3C0E4;  /* very light lavender */
+  --bs-secondary:     #F2F2F2;  /* very light gray */
   /* Body background and text color */
-  --bs-body-bg:       #F5F3FA;  /* almost-white with a hint of purple */
-  --bs-body-color:    #4A415A;  /* dark grey-purple for readable text */
+  --bs-body-bg:       #FFFFFF;  /* white */
+  --bs-body-color:    #3C3C3C;  /* dark charcoal for text */
   /* Link hover shade (slightly deeper violet) */
   --bs-link-hover-color: #5E4E8A;
 }
@@ -20,20 +20,24 @@ body {
   background-color: var(--bs-body-bg) !important;
   color: var(--bs-body-color) !important;
   line-height: 1.6;
-  font-family: "Inter", sans-serif; /* ensure Inter is loaded via _quarto.yml */
+  font-family: "Inter", sans-serif;
 }
 
-/* 3) Headings in a soft violet tone */
+/* 3) Headings in a soft violet tone with reduced sizes */
 h1, h2, h3, h4, h5, h6 {
   color: var(--bs-primary) !important;
-  margin-top: 1.5rem;
+  font-family: "Playfair Display", serif;
+  margin-top: 1.25rem;
   margin-bottom: 0.5rem;
-  font-family: "Playfair Display", serif; /* ensure loaded via _quarto.yml */
   line-height: 1.2;
 }
-h1 { font-size: 2.5rem; }
-h2 { font-size: 2rem; }
-h3 { font-size: 1.75rem; }
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.1rem; }
+h5 { font-size: 1rem; }
+h6 { font-size: 0.9rem; }
 
 /* 4) Link styles */
 a {
@@ -68,36 +72,37 @@ a:hover, a:focus {
   border-color: var(--bs-link-hover-color) !important;
 }
 
-/* 7) Card/section styling for white vs. lavender backgrounds */
+/* 7) Card/section styling for a neutral white vs. light gray background */
 .project-card {
   background-color: white;
-  border: 1px solid #E0E0E0;
+  border: 1px solid #DCDCDC;
   border-radius: 0.5rem;
   padding: 1.5rem;
   margin-bottom: 2rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
 }
 .project-card-alt {
-  background-color: #F0EDF6; /* very pale lavender */
+  background-color: #FAFAFA; /* very light gray */
 }
 .project-card h2 {
   font-family: "Playfair Display", serif;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   margin-bottom: 0.5rem;
   color: var(--bs-primary);
 }
 
 /* 8) Container for centered content */
 .container-content {
-  max-width: 900px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 0 1rem;
 }
 
 /* 9) Paragraph spacing */
 p {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1rem;
   color: var(--bs-body-color);
+  font-size: 1rem;
 }
 
 /* 10) Responsive images */
@@ -106,30 +111,33 @@ img {
   height: auto;
 }
 
-/* 11) Navbar toggler icon (visible on light lavender) */
+/* 11) Navbar toggler icon (visible on light gray) */
 .navbar-toggler {
   border-color: var(--bs-primary) !important;
 }
 .navbar-toggler-icon {
-  filter: invert(0.2); /* slight invert so it’s visible against lavender */
+  filter: invert(0.3);
 }
 
-/* 12) Accent badge in a pale violet */
+/* 12) Badge/pill using a muted violet */
 .badge-accent {
-  background-color: #B89ED7 !important;  /* light-medium lavender */
+  background-color: #A28FD0 !important;  /* pale lavender */
   color: white !important;
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
   font-size: 0.85rem;
 }
 
-/* 13) Optional subtle background gradient */
+/* 13) Optional subtle background gradient (very light) */
 body {
-  background: linear-gradient(to bottom right, #F5F3FA, #EFEAF6) !important;
+  background: linear-gradient(to bottom right, #FFFFFF, #F7F7F7) !important;
 }
 
 /* 14) Mobile adjustments */
 @media (max-width: 576px) {
-  h1 { font-size: 2rem; }
-  h2 { font-size: 1.5rem; }
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.25rem; }
+  .container-content {
+    padding: 0 0.5rem;
+  }
 }
