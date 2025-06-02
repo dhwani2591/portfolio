@@ -1,32 +1,35 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "Dhwani Modi | I/O Psychology & Data Analytics"
+  title: "Dhwani Modi"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Resume"
-        href: resume.qmd
       - text: "Projects"
         href: projects.qmd
+      - text: "Resume"
+        href: resume.qmd
       - text: "Contact"
         href: contact.qmd
 
 format:
   html:
-    theme: "cosmo"   # switch from flatly → cosmo
-    css: styles.css
-    include-in-header:
+    theme: "cosmo"       # ← two spaces under html:
+    css: styles.css      # ← two spaces under html:
+    output-dir: docs     # ← two spaces under html:  ← crucial
+    include-in-header:   # ← two spaces under html:
       - text: |
-          <!-- AOS (if you kept it) -->
+          <!-- AOS CSS -->
           <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
+
       - text: |
+          <!-- AOS JS & init -->
           <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
           <script>
             document.addEventListener('DOMContentLoaded', function() {
               AOS.init({ duration: 800, once: true });
             });
           </script>
+

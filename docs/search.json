@@ -1,122 +1,38 @@
 [
   {
-    "objectID": "Home.html",
-    "href": "Home.html",
-    "title": "Home",
-    "section": "",
-    "text": "&lt;h1 class=\"mb-0 fade-in\"&gt;Hi, I’m Dhwani&lt;/h1&gt;\n&lt;div class=\"hero-subtitle fade-in\"&gt;\n  M.A. Candidate in Industrial & Organizational Psychology at NYU  \n  &lt;br&gt;Bridging data and human insight to empower organizations\n&lt;/div&gt;"
-  },
-  {
-    "objectID": "Home.html#key-skills",
-    "href": "Home.html#key-skills",
-    "title": "Home",
-    "section": "",
-    "text": "I/O Psychology\n– Survey design\n– Employee engagement\n– Training needs assessment\n\n\n\n\nData & Analytics\n– R (tidyverse, caret)\n– Python (pandas, scikit-learn)\n– SQL, Power BI, Tableau\n\n\n\n\nMachine Learning\n– Naïve Bayes\n– Random Forest / Decision Trees\n– Logistic Regression\n\n\n\nBelow you’ll find my Resume and Projects. Feel free to Contact me if you’d like to chat."
-  },
-  {
-    "objectID": "Resume.html",
-    "href": "Resume.html",
+    "objectID": "resume.html",
+    "href": "resume.html",
     "title": "Resume",
     "section": "",
     "text": "New York, New York 10025 | (646) 656-2102 | modidhwani21@gmail.com | linkedin.com/in/dhwanimodi21\n\n\n\nNew York University, New York, NY\nMaster of Arts in Industrial and Organizational Psychology\nSeptember 2023 – May 2025\nGPA: 3.87\nRelevant coursework: Organization Development, Employee Training, Leadership and Strategic Change, Management Consulting, Performance Measurement & Rewards, Machine Learning, Conflict and Negotiation, Databases for Business Analytics.\nPandit Deendayal Energy University, Gandhinagar, Gujarat, India\nBachelor of Arts (Honors) in Psychology\nJuly 2019 – May 2023\n\n\n\n\n\n\nMarch 2025 – April 2025\n- Built and evaluated classification models (Random Forest, Decision Trees, Logistic Regression, Naïve Bayes Classification) to predict trust levels in neighborhoods using demographic and perception survey data.\n- Achieved 75.6% model accuracy; evaluated performance using confusion matrices, precision/recall, and kappa statistics.\n- Conducted feature‐importance analysis to interpret key predictors, including income level, civic participation, and neighborhood safety.\n\n\n\nSeptember 2024 – December 2024\n- Analyzed a tech company’s performance management system, including appraisal tools, evaluation criteria, and 360-degree feedback.\n- Assessed links between performance ratings and outcomes like pay, development, and promotion.\n- Proposed improvements using Behaviorally Anchored Rating Scales (BARS) and best practices to enhance fairness and consistency.\n- Recommended manager training using the 70-20-10 model and delivered findings in a team presentation.\n\n\n\nOctober 2024\n- Served as the leadership expert on a cross‐functional team in a university-level consulting competition.\n- Analyzed a human resource management problem for a client, applying change-management frameworks to assess workplace challenges and suggest actionable solutions.\n- Collaborated to identify key issues and develop a comprehensive strategy based on qualitative and quantitative analysis.\n- Presented findings to a panel of industry experts, integrating both data‐driven insights and practical recommendations.\n\n\n\nJanuary 2024 – May 2024\n- Conducted a comprehensive needs assessment for training programs, identifying KSAOs required by physicians and medical staff to leverage AI in diagnostics and patient care.\n- Developed customized training environments, incorporating AI fundamentals and ethical/legal guidelines tailored for healthcare.\n- Created innovative learning methods (VR simulations, live webinars, e-learning platforms) to ensure effective knowledge transfer.\n- Established a structured evaluation plan to measure training success via direct observation, feedback loops, and on-the-job assessments.\n\n\n\n\n\n\n\nJanuary 2024 – May 2024\n- Designed the research study and created a questionnaire targeting variables related to professional development and remote work.\n- Performed statistical analysis (Descriptive Statistics, Individual t-tests, ANOVA, Correlation, Regression) in R to examine relationships between variables.\n- Presented findings and recommendations to improve training and mentoring initiatives aimed at enhancing employee satisfaction and retention.\n\n\n\nJanuary 2023 – May 2023\n- Designed the research study and crafted a questionnaire measuring work-life balance, job satisfaction, and turnover intentions.\n- Conducted statistical analysis (Descriptive Statistics, ANOVA, Correlation, Regression) in Excel to evaluate the relationship between work-life balance factors and employee retention.\n- Presented findings and recommendations to the dissertation panel, emphasizing practical implications for organizational policy and employee well-being.\n\n\n\n\n\n\nStatistical & Data Tools: R, SQL, Microsoft Office, Qualtrics\n\nMachine Learning: Naïve Bayes, Decision Trees, Random Forest, Logistic Regression\n\nData Visualization & Analysis: Data Collection, Statistical Analysis, Business Presentation, Data Visualization\nI/O Psychology: Survey Design, Needs Assessment, Training & Development, Performance Measurement, Consulting\n\nSoft Skills: Leadership, Team Collaboration, Communication, Strategic Thinking"
   },
   {
-    "objectID": "Resume.html#education",
-    "href": "Resume.html#education",
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
     "title": "Resume",
     "section": "",
     "text": "New York University, New York, NY\nMaster of Arts in Industrial and Organizational Psychology\nSeptember 2023 – May 2025\nGPA: 3.87\nRelevant coursework: Organization Development, Employee Training, Leadership and Strategic Change, Management Consulting, Performance Measurement & Rewards, Machine Learning, Conflict and Negotiation, Databases for Business Analytics.\nPandit Deendayal Energy University, Gandhinagar, Gujarat, India\nBachelor of Arts (Honors) in Psychology\nJuly 2019 – May 2023"
   },
   {
-    "objectID": "Resume.html#projects",
-    "href": "Resume.html#projects",
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
     "title": "Resume",
     "section": "",
     "text": "March 2025 – April 2025\n- Built and evaluated classification models (Random Forest, Decision Trees, Logistic Regression, Naïve Bayes Classification) to predict trust levels in neighborhoods using demographic and perception survey data.\n- Achieved 75.6% model accuracy; evaluated performance using confusion matrices, precision/recall, and kappa statistics.\n- Conducted feature‐importance analysis to interpret key predictors, including income level, civic participation, and neighborhood safety.\n\n\n\nSeptember 2024 – December 2024\n- Analyzed a tech company’s performance management system, including appraisal tools, evaluation criteria, and 360-degree feedback.\n- Assessed links between performance ratings and outcomes like pay, development, and promotion.\n- Proposed improvements using Behaviorally Anchored Rating Scales (BARS) and best practices to enhance fairness and consistency.\n- Recommended manager training using the 70-20-10 model and delivered findings in a team presentation.\n\n\n\nOctober 2024\n- Served as the leadership expert on a cross‐functional team in a university-level consulting competition.\n- Analyzed a human resource management problem for a client, applying change-management frameworks to assess workplace challenges and suggest actionable solutions.\n- Collaborated to identify key issues and develop a comprehensive strategy based on qualitative and quantitative analysis.\n- Presented findings to a panel of industry experts, integrating both data‐driven insights and practical recommendations.\n\n\n\nJanuary 2024 – May 2024\n- Conducted a comprehensive needs assessment for training programs, identifying KSAOs required by physicians and medical staff to leverage AI in diagnostics and patient care.\n- Developed customized training environments, incorporating AI fundamentals and ethical/legal guidelines tailored for healthcare.\n- Created innovative learning methods (VR simulations, live webinars, e-learning platforms) to ensure effective knowledge transfer.\n- Established a structured evaluation plan to measure training success via direct observation, feedback loops, and on-the-job assessments."
   },
   {
-    "objectID": "Resume.html#research-experience",
-    "href": "Resume.html#research-experience",
+    "objectID": "resume.html#research-experience",
+    "href": "resume.html#research-experience",
     "title": "Resume",
     "section": "",
     "text": "January 2024 – May 2024\n- Designed the research study and created a questionnaire targeting variables related to professional development and remote work.\n- Performed statistical analysis (Descriptive Statistics, Individual t-tests, ANOVA, Correlation, Regression) in R to examine relationships between variables.\n- Presented findings and recommendations to improve training and mentoring initiatives aimed at enhancing employee satisfaction and retention.\n\n\n\nJanuary 2023 – May 2023\n- Designed the research study and crafted a questionnaire measuring work-life balance, job satisfaction, and turnover intentions.\n- Conducted statistical analysis (Descriptive Statistics, ANOVA, Correlation, Regression) in Excel to evaluate the relationship between work-life balance factors and employee retention.\n- Presented findings and recommendations to the dissertation panel, emphasizing practical implications for organizational policy and employee well-being."
   },
   {
-    "objectID": "Resume.html#skills",
-    "href": "Resume.html#skills",
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
     "title": "Resume",
     "section": "",
     "text": "Statistical & Data Tools: R, SQL, Microsoft Office, Qualtrics\n\nMachine Learning: Naïve Bayes, Decision Trees, Random Forest, Logistic Regression\n\nData Visualization & Analysis: Data Collection, Statistical Analysis, Business Presentation, Data Visualization\nI/O Psychology: Survey Design, Needs Assessment, Training & Development, Performance Measurement, Consulting\n\nSoft Skills: Leadership, Team Collaboration, Communication, Strategic Thinking"
-  },
-  {
-    "objectID": "Contact.html",
-    "href": "Contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Let’s Connect\n\nEmail: modidhwani21@gmail.com\n\nLinkedIn: linkedin.com/in/dhwanimodi21\n\nFeel free to reach out to me if you have additional questions about my skills and qualifications."
-  },
-  {
-    "objectID": "docs/resume.html",
-    "href": "docs/resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "New York, New York 10025 | (646) 656-2102 | modidhwani21@gmail.com | linkedin.com/in/dhwanimodi21\n\n\n\nNew York University, New York, NY\nMaster of Arts in Industrial and Organizational Psychology\nSeptember 2023 – May 2025\nGPA: 3.87\nRelevant coursework: Organization Development, Employee Training, Leadership and Strategic Change, Management Consulting, Performance Measurement & Rewards, Machine Learning, Conflict and Negotiation, Databases for Business Analytics.\nPandit Deendayal Energy University, Gandhinagar, Gujarat, India\nBachelor of Arts (Honors) in Psychology\nJuly 2019 – May 2023\n\n\n\n\n\n\nMarch 2025 – April 2025\n- Built and evaluated classification models (Random Forest, Decision Trees, Logistic Regression, Naïve Bayes Classification) to predict trust levels in neighborhoods using demographic and perception survey data.\n- Achieved 75.6% model accuracy; evaluated performance using confusion matrices, precision/recall, and kappa statistics.\n- Conducted feature‐importance analysis to interpret key predictors, including income level, civic participation, and neighborhood safety.\n\n\n\nSeptember 2024 – December 2024\n- Analyzed a tech company’s performance management system, including appraisal tools, evaluation criteria, and 360-degree feedback.\n- Assessed links between performance ratings and outcomes like pay, development, and promotion.\n- Proposed improvements using Behaviorally Anchored Rating Scales (BARS) and best practices to enhance fairness and consistency.\n- Recommended manager training using the 70-20-10 model and delivered findings in a team presentation.\n\n\n\nOctober 2024\n- Served as the leadership expert on a cross‐functional team in a university-level consulting competition.\n- Analyzed a human resource management problem for a client, applying change-management frameworks to assess workplace challenges and suggest actionable solutions.\n- Collaborated to identify key issues and develop a comprehensive strategy based on qualitative and quantitative analysis.\n- Presented findings to a panel of industry experts, integrating both data‐driven insights and practical recommendations.\n\n\n\nJanuary 2024 – May 2024\n- Conducted a comprehensive needs assessment for training programs, identifying KSAOs required by physicians and medical staff to leverage AI in diagnostics and patient care.\n- Developed customized training environments, incorporating AI fundamentals and ethical/legal guidelines tailored for healthcare.\n- Created innovative learning methods (VR simulations, live webinars, e-learning platforms) to ensure effective knowledge transfer.\n- Established a structured evaluation plan to measure training success via direct observation, feedback loops, and on-the-job assessments.\n\n\n\n\n\n\n\nJanuary 2024 – May 2024\n- Designed the research study and created a questionnaire targeting variables related to professional development and remote work.\n- Performed statistical analysis (Descriptive Statistics, Individual t-tests, ANOVA, Correlation, Regression) in R to examine relationships between variables.\n- Presented findings and recommendations to improve training and mentoring initiatives aimed at enhancing employee satisfaction and retention.\n\n\n\nJanuary 2023 – May 2023\n- Designed the research study and crafted a questionnaire measuring work-life balance, job satisfaction, and turnover intentions.\n- Conducted statistical analysis (Descriptive Statistics, ANOVA, Correlation, Regression) in Excel to evaluate the relationship between work-life balance factors and employee retention.\n- Presented findings and recommendations to the dissertation panel, emphasizing practical implications for organizational policy and employee well-being.\n\n\n\n\n\n\nStatistical & Data Tools: R, SQL, Microsoft Office, Qualtrics\n\nMachine Learning: Naïve Bayes, Decision Trees, Random Forest, Logistic Regression\n\nData Visualization & Analysis: Data Collection, Statistical Analysis, Business Presentation, Data Visualization\nI/O Psychology: Survey Design, Needs Assessment, Training & Development, Performance Measurement, Consulting\n\nSoft Skills: Leadership, Team Collaboration, Communication, Strategic Thinking"
-  },
-  {
-    "objectID": "docs/resume.html#education",
-    "href": "docs/resume.html#education",
-    "title": "Resume",
-    "section": "",
-    "text": "New York University, New York, NY\nMaster of Arts in Industrial and Organizational Psychology\nSeptember 2023 – May 2025\nGPA: 3.87\nRelevant coursework: Organization Development, Employee Training, Leadership and Strategic Change, Management Consulting, Performance Measurement & Rewards, Machine Learning, Conflict and Negotiation, Databases for Business Analytics.\nPandit Deendayal Energy University, Gandhinagar, Gujarat, India\nBachelor of Arts (Honors) in Psychology\nJuly 2019 – May 2023"
-  },
-  {
-    "objectID": "docs/resume.html#projects",
-    "href": "docs/resume.html#projects",
-    "title": "Resume",
-    "section": "",
-    "text": "March 2025 – April 2025\n- Built and evaluated classification models (Random Forest, Decision Trees, Logistic Regression, Naïve Bayes Classification) to predict trust levels in neighborhoods using demographic and perception survey data.\n- Achieved 75.6% model accuracy; evaluated performance using confusion matrices, precision/recall, and kappa statistics.\n- Conducted feature‐importance analysis to interpret key predictors, including income level, civic participation, and neighborhood safety.\n\n\n\nSeptember 2024 – December 2024\n- Analyzed a tech company’s performance management system, including appraisal tools, evaluation criteria, and 360-degree feedback.\n- Assessed links between performance ratings and outcomes like pay, development, and promotion.\n- Proposed improvements using Behaviorally Anchored Rating Scales (BARS) and best practices to enhance fairness and consistency.\n- Recommended manager training using the 70-20-10 model and delivered findings in a team presentation.\n\n\n\nOctober 2024\n- Served as the leadership expert on a cross‐functional team in a university-level consulting competition.\n- Analyzed a human resource management problem for a client, applying change-management frameworks to assess workplace challenges and suggest actionable solutions.\n- Collaborated to identify key issues and develop a comprehensive strategy based on qualitative and quantitative analysis.\n- Presented findings to a panel of industry experts, integrating both data‐driven insights and practical recommendations.\n\n\n\nJanuary 2024 – May 2024\n- Conducted a comprehensive needs assessment for training programs, identifying KSAOs required by physicians and medical staff to leverage AI in diagnostics and patient care.\n- Developed customized training environments, incorporating AI fundamentals and ethical/legal guidelines tailored for healthcare.\n- Created innovative learning methods (VR simulations, live webinars, e-learning platforms) to ensure effective knowledge transfer.\n- Established a structured evaluation plan to measure training success via direct observation, feedback loops, and on-the-job assessments."
-  },
-  {
-    "objectID": "docs/resume.html#research-experience",
-    "href": "docs/resume.html#research-experience",
-    "title": "Resume",
-    "section": "",
-    "text": "January 2024 – May 2024\n- Designed the research study and created a questionnaire targeting variables related to professional development and remote work.\n- Performed statistical analysis (Descriptive Statistics, Individual t-tests, ANOVA, Correlation, Regression) in R to examine relationships between variables.\n- Presented findings and recommendations to improve training and mentoring initiatives aimed at enhancing employee satisfaction and retention.\n\n\n\nJanuary 2023 – May 2023\n- Designed the research study and crafted a questionnaire measuring work-life balance, job satisfaction, and turnover intentions.\n- Conducted statistical analysis (Descriptive Statistics, ANOVA, Correlation, Regression) in Excel to evaluate the relationship between work-life balance factors and employee retention.\n- Presented findings and recommendations to the dissertation panel, emphasizing practical implications for organizational policy and employee well-being."
-  },
-  {
-    "objectID": "docs/resume.html#skills",
-    "href": "docs/resume.html#skills",
-    "title": "Resume",
-    "section": "",
-    "text": "Statistical & Data Tools: R, SQL, Microsoft Office, Qualtrics\n\nMachine Learning: Naïve Bayes, Decision Trees, Random Forest, Logistic Regression\n\nData Visualization & Analysis: Data Collection, Statistical Analysis, Business Presentation, Data Visualization\nI/O Psychology: Survey Design, Needs Assessment, Training & Development, Performance Measurement, Consulting\n\nSoft Skills: Leadership, Team Collaboration, Communication, Strategic Thinking"
-  },
-  {
-    "objectID": "docs/contact.html",
-    "href": "docs/contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Let’s Connect\n\nEmail: modidhwani21@gmail.com\n\nLinkedIn: linkedin.com/in/dhwanimodi21\n\nGitHub: github.com/dhwani2591\n\nFeel free to reach out if you’d like to discuss I/O Psychology, data projects, or potential collaborations."
-  },
-  {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Projects\nBelow are highlights of my consulting, research, and capstone work. Click “View PDF” to read the full document.\n\n\n\n\n&lt;div class=\"card shadow-sm h-100\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Boeing Cultural &amp; Leadership Transformation&lt;/h5&gt;\n    &lt;h6 class=\"card-subtitle mb-2 text-muted\"&gt;Dec 2024&lt;/h6&gt;\n    &lt;ul class=\"card-text\" style=\"padding-left: 1rem;\"&gt;\n      &lt;li&gt;Diagnosed leadership and cultural breakdowns after the 737 Max crashes—pinpointed “cost-saving over safety” and lack of transparency as core issues.&lt;/li&gt;\n      &lt;li&gt;Proposed re-engineering Boeing’s mission, an internal ethics committee, and an overhauled leadership training program to rebuild employee trust.&lt;/li&gt;\n      &lt;li&gt;Outlined measurable KPIs (e.g., safety-reporting compliance, 360-degree feedback scores) to track culture change and ethical accountability.&lt;/li&gt;\n    &lt;/ul&gt;\n    &lt;a href=\"projects/Boeing Proposal.pdf\" class=\"btn btn-primary btn-sm\" target=\"_blank\"&gt;\n      View PDF\n    &lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n\n&lt;div class=\"card shadow-sm h-100\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Listen Wellness: EAP Business Plan&lt;/h5&gt;\n    &lt;h6 class=\"card-subtitle mb-2 text-muted\"&gt;Dec 2024&lt;/h6&gt;\n    &lt;ul class=\"card-text\" style=\"padding-left: 1rem;\"&gt;\n      &lt;li&gt;Developed a full business plan targeting India’s manufacturing workforce, including market analysis and three pricing tiers (Basic, Standard, Premium).&lt;/li&gt;\n      &lt;li&gt;Created operational roadmaps, marketing strategies, and financial projections seeking ₹50,00,000 in initial funding to launch in Gujarat.&lt;/li&gt;\n      &lt;li&gt;Outlined service offerings (wellness assessments, workshops, crisis support) and a data-driven ROI framework (e.g., 20% reduction in absenteeism).&lt;/li&gt;\n    &lt;/ul&gt;\n    &lt;a href=\"projects/Business Project.pdf\" class=\"btn btn-primary btn-sm\" target=\"_blank\"&gt;\n      View PDF\n    &lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n\n\n\n\n&lt;div class=\"card shadow-sm h-100\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Remote Work Professional Development Study&lt;/h5&gt;\n    &lt;h6 class=\"card-subtitle mb-2 text-muted\"&gt;May 2024&lt;/h6&gt;\n    &lt;ul class=\"card-text\" style=\"padding-left: 1rem;\"&gt;\n      &lt;li&gt;Surveyed 35 remote employees on factors (networking, training, engagement, motivation, demographics) affecting professional-development perceptions during COVID-19.&lt;/li&gt;\n      &lt;li&gt;Ran descriptive stats, t-tests, ANOVA, correlation, and regression in R to identify that networking and mentoring strongly predicted perceived career growth.&lt;/li&gt;\n      &lt;li&gt;Recommended virtual mentorship programs and structured feedback loops to mitigate isolation and enhance remote career support.&lt;/li&gt;\n    &lt;/ul&gt;\n    &lt;a href=\"projects/Factors Affecting Employee Perceptions of Professional Development in a Remote Work Setting_DhwaniModi.pdf\"\n       class=\"btn btn-primary btn-sm\" target=\"_blank\"&gt;\n      View PDF\n    &lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n\n&lt;div class=\"card shadow-sm h-100\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;Dissertation: Work-Life Balance &amp; Turnover Intentions&lt;/h5&gt;\n    &lt;h6 class=\"card-subtitle mb-2 text-muted\"&gt;May 2023&lt;/h6&gt;\n    &lt;ul class=\"card-text\" style=\"padding-left: 1rem;\"&gt;\n      &lt;li&gt;Examined the impact of work-life balance factors on employee turnover intentions and identified factors causing job dissatisfaction.&lt;/li&gt;\n      &lt;li&gt;Conducted descriptive statistics, ANOVA, correlation &amp; regression in Excel on survey data to evaluate the relationship between work-life balance and retention.&lt;/li&gt;\n      &lt;li&gt;Presented actionable recommendations to reduce turnover &amp; improve organizational well-being through enhanced work-life initiatives.&lt;/li&gt;\n    &lt;/ul&gt;\n    &lt;a href=\"projects/Impact of Work-Life Balance on Employee Turnover Intentions and Determining the Factors Causing Job Dissatisfaction.pdf\"\n       class=\"btn btn-primary btn-sm\" target=\"_blank\"&gt;\n      View PDF\n    &lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n\n\n\n\n&lt;div class=\"card shadow-sm h-100\"&gt;\n  &lt;div class=\"card-body\"&gt;\n    &lt;h5 class=\"card-title\"&gt;M&amp;A Case Study: GRS &amp; MejorVida&lt;/h5&gt;\n    &lt;h6 class=\"card-subtitle mb-2 text-muted\"&gt;Nov 2023&lt;/h6&gt;\n    &lt;ul class=\"card-text\" style=\"padding-left: 1rem;\"&gt;\n      &lt;li&gt;Analyzed cultural, leadership, and integration challenges when Global Retirement Strategies (GRS) acquired MejorVida in Chile.&lt;/li&gt;\n      &lt;li&gt;Applied McKinsey’s cultural model—diagnosed “cultural distance” and designed a phased integration plan including alignment workshops and post-merger OD interventions.&lt;/li&gt;\n      &lt;li&gt;Outlined “Red Team” coordination steps and 360-degree feedback mechanisms to ensure alignment between New York and Santiago offices.&lt;/li&gt;\n    &lt;/ul&gt;\n    &lt;a href=\"projects/M&A case study.pdf\" class=\"btn btn-primary btn-sm\" target=\"_blank\"&gt;\n      View PDF\n    &lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
-  },
-  {
-    "objectID": "Home.html#about-me",
-    "href": "Home.html#about-me",
-    "title": "Home",
-    "section": "About Me",
-    "text": "About Me\n\nI’m currently pursuing my Master’s in Industrial & Organizational Psychology at New York University (expected May 2025), where I specialize in combining qualitative research, advanced statistical analysis, and machine‐learning techniques to solve real‐world business problems. Over the past two years, I have: - Led a machine learning project using World Values Survey data to predict neighborhood trust, achieving 75.6% accuracy and uncovering key drivers like income and civic participation.\n- Designed performance management diagnostic tools and presented strategic recommendations for tech firms in team‐based consulting competitions at NYU.\n- Conducted research on remote work development and published insights on how training and mentoring can improve employee satisfaction in a virtual environment.\n\n\nBefore NYU, I earned my B.A. (Honors) in Psychology from Pandit Deendayal Energy University in India, where I graduated in May 2023. My undergraduate thesis explored factors affecting work‐life balance and turnover intentions—laying the groundwork for my passion in aligning organizational policy with employee well‐being."
-  },
-  {
-    "objectID": "Home.html#skills-snapshot",
-    "href": "Home.html#skills-snapshot",
-    "title": "Home",
-    "section": "Skills Snapshot",
-    "text": "Skills Snapshot\n\n\n### I/O Psychology & Consulting - Survey Design & Analysis\n- Employee Engagement Interventions\n- Performance Measurement & BARS\n- Training Need Assessments & Curriculum Design\n- Workforce Analytics & Change Management\n\n\n### Data & Machine Learning - R (tidyverse, caret)\n- Python (pandas, scikit-learn)\n- SQL, Power BI, Tableau\n- Naïve Bayes, Decision Trees, Random Forest\n- Statistical Modeling (ANOVA, Regression, Kappa)"
   },
   {
     "objectID": "index.html",
@@ -133,13 +49,6 @@
     "text": "About Me\n\nGraduated with Master’s in Industrial & Organizational Psychology from New York University, where I specialize in combining qualitative research, advanced statistical analysis, and machine‐learning techniques to solve real‐world business problems.\n\n\nBefore NYU, I earned my B.A. (Honors) in Psychology from Pandit Deendayal Energy University in India, where I graduated in May 2023. My undergraduate thesis explored factors affecting work‐life balance and turnover intentions, laying the groundwork for my passion in aligning organizational policy with employee well‐being."
   },
   {
-    "objectID": "index.html#skills-snapshot",
-    "href": "index.html#skills-snapshot",
-    "title": "Home",
-    "section": "Skills Snapshot",
-    "text": "Skills Snapshot\n\n\n### I/O Psychology & Consulting - Survey Design & Analysis\n- Employee Engagement Interventions\n- Performance Measurement & BARS\n- Training Need Assessments & Curriculum Design\n- Workforce Analytics & Change Management\n\n\n### Data & Machine Learning - R (tidyverse, caret)\n- Python (pandas, scikit-learn)\n- SQL, Power BI, Tableau\n- Naïve Bayes, Decision Trees, Random Forest\n- Statistical Modeling (ANOVA, Regression, Kappa)"
-  },
-  {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "Home",
@@ -147,18 +56,11 @@
     "text": "Skills\n\n\nI/O Psychology & Consulting\n\nSurvey Design & Analysis\n\nEmployee Engagement Interventions\n\nPerformance Measurement\n\nTraining Need Assessments\n\nChange Management\n\n\n\nData & Machine Learning\n\nR\nSQL\nPower BI\nNaïve Bayes, Decision Trees, Random Forest\nStatistical Modeling (ANOVA, Regression, T-test)"
   },
   {
-    "objectID": "index.html#io-psychology-consulting",
-    "href": "index.html#io-psychology-consulting",
-    "title": "Home",
-    "section": "I/O Psychology & Consulting",
-    "text": "I/O Psychology & Consulting\n\nSurvey Design & Analysis\n\nEmployee Engagement Interventions\n\nPerformance Measurement\n\nTraining Need Assessments\n\nChange Management"
-  },
-  {
-    "objectID": "index.html#data-machine-learning",
-    "href": "index.html#data-machine-learning",
-    "title": "Home",
-    "section": "Data & Machine Learning",
-    "text": "Data & Machine Learning\n\nR\nSQL\nPower BI\nNaïve Bayes, Decision Trees, Random Forest\nStatistical Modeling (ANOVA, Regression, T-test)"
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Let’s Connect\n\nEmail: modidhwani21@gmail.com\n\nLinkedIn: linkedin.com/in/dhwanimodi21\n\nFeel free to reach out to me if you have additional questions about my skills and qualifications."
   },
   {
     "objectID": "projects.html",
@@ -166,47 +68,5 @@
     "title": "Projects",
     "section": "",
     "text": "Below are a few highlights of my consulting, research, and capstone work. Click any link to open the full PDF.\n\nBoeing Cultural & Leadership Transformation\nDec 2024\nDiagnosed leadership and cultural breakdowns after the 737 Max crashes; proposed a mission overhaul, ethics committee, and KPI framework to rebuild trust.\nListen Wellness: EAP Business Plan\nDec 2024\nDeveloped a full business plan targeting India’s manufacturing workforce with market analysis, funding projections, and ROI metrics (e.g., 20% absenteeism reduction).\nRemote Work Professional Development Study\nMay 2024\nSurveyed 35 remote employees in R; ran t-tests, ANOVA, correlation, regression—recommended virtual mentorship programs and feedback loops.\nDissertation: Work-Life Balance & Turnover Intentions\nMay 2023\nAnalyzed work-life factors via descriptive stats, ANOVA, correlation, regression in Excel; offered recommendations to reduce turnover and boost well-being.\nM&A Case Study: GRS & MejorVida\nNov 2023\nDiagnosed cultural distance in a cross-border acquisition; used McKinsey’s model to design integration workshops, 360-feedback, and a phased OD plan."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "New York, New York 10025 | (646) 656-2102 | modidhwani21@gmail.com | linkedin.com/in/dhwanimodi21"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Resume",
-    "section": "Education",
-    "text": "Education\nNew York University, New York, NY\nMaster of Arts in Industrial and Organizational Psychology\nSeptember 2023 – May 2025\nGPA: 3.87\nRelevant coursework: Organization Development, Employee Training, Leadership and Strategic Change, Management Consulting, Performance Measurement & Rewards, Machine Learning, Conflict and Negotiation, Databases for Business Analytics.\nPandit Deendayal Energy University, Gandhinagar, Gujarat, India\nBachelor of Arts (Honors) in Psychology\nJuly 2019 – May 2023"
-  },
-  {
-    "objectID": "resume.html#projects",
-    "href": "resume.html#projects",
-    "title": "Resume",
-    "section": "Projects",
-    "text": "Projects\n\nMachine Learning Project (New York University)\nMarch 2025 – April 2025\n- Built and evaluated classification models (Random Forest, Decision Trees, Logistic Regression, Naïve Bayes Classification) to predict trust levels in neighborhoods using demographic and perception survey data.\n- Achieved 75.6% model accuracy; evaluated performance using confusion matrices, precision/recall, and kappa statistics.\n- Conducted feature‐importance analysis to interpret key predictors, including income level, civic participation, and neighborhood safety.\n\n\nPerformance Measurement: Business Presentation (New York University)\nSeptember 2024 – December 2024\n- Analyzed a tech company’s performance management system, including appraisal tools, evaluation criteria, and 360-degree feedback.\n- Assessed links between performance ratings and outcomes like pay, development, and promotion.\n- Proposed improvements using Behaviorally Anchored Rating Scales (BARS) and best practices to enhance fairness and consistency.\n- Recommended manager training using the 70-20-10 model and delivered findings in a team presentation.\n\n\nKeystone Case Competition (New York University)\nOctober 2024\n- Served as the leadership expert on a cross‐functional team in a university-level consulting competition.\n- Analyzed a human resource management problem for a client, applying change-management frameworks to assess workplace challenges and suggest actionable solutions.\n- Collaborated to identify key issues and develop a comprehensive strategy based on qualitative and quantitative analysis.\n- Presented findings to a panel of industry experts, integrating both data‐driven insights and practical recommendations.\n\n\nEmployee Training in Organizations: Case Study Presentation (New York University)\nJanuary 2024 – May 2024\n- Conducted a comprehensive needs assessment for training programs, identifying KSAOs required by physicians and medical staff to leverage AI in diagnostics and patient care.\n- Developed customized training environments, incorporating AI fundamentals and ethical/legal guidelines tailored for healthcare.\n- Created innovative learning methods (VR simulations, live webinars, e-learning platforms) to ensure effective knowledge transfer.\n- Established a structured evaluation plan to measure training success via direct observation, feedback loops, and on-the-job assessments."
-  },
-  {
-    "objectID": "resume.html#research-experience",
-    "href": "resume.html#research-experience",
-    "title": "Resume",
-    "section": "Research Experience",
-    "text": "Research Experience\n\nResearch Project: Factors Affecting Employee Perceptions of Professional Development in a Remote Work Setting (New York University)\nJanuary 2024 – May 2024\n- Designed the research study and created a questionnaire targeting variables related to professional development and remote work.\n- Performed statistical analysis (Descriptive Statistics, Individual t-tests, ANOVA, Correlation, Regression) in R to examine relationships between variables.\n- Presented findings and recommendations to improve training and mentoring initiatives aimed at enhancing employee satisfaction and retention.\n\n\nDissertation: Impact of Work-Life Balance on Employee Turnover Intentions And Determining Factors Causing Job Dissatisfaction (Pandit Deendayal Energy University)\nJanuary 2023 – May 2023\n- Designed the research study and crafted a questionnaire measuring work-life balance, job satisfaction, and turnover intentions.\n- Conducted statistical analysis (Descriptive Statistics, ANOVA, Correlation, Regression) in Excel to evaluate the relationship between work-life balance factors and employee retention.\n- Presented findings and recommendations to the dissertation panel, emphasizing practical implications for organizational policy and employee well-being."
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Resume",
-    "section": "Skills",
-    "text": "Skills\n\nStatistical & Data Tools: R, SQL, Microsoft Office, Qualtrics\n\nMachine Learning: Naïve Bayes, Decision Trees, Random Forest, Logistic Regression\n\nData Visualization & Analysis: Data Collection, Statistical Analysis, Business Presentation, Data Visualization\nI/O Psychology: Survey Design, Needs Assessment, Training & Development, Performance Measurement, Consulting\n\nSoft Skills: Leadership, Team Collaboration, Communication, Strategic Thinking"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Let’s Connect\n\nEmail: modidhwani21@gmail.com\n\nLinkedIn: linkedin.com/in/dhwanimodi21\n\nFeel free to reach out to me if you have additional questions about my skills and qualifications."
   }
 ]
