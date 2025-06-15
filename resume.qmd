@@ -1,86 +1,79 @@
 ---
 title: "Resume"
+format: html
 ---
 
-## Dhwani Modi
+# Dhwani Modi
 
-New York, New York 10025 \| (646) 656-2102 \| modidhwani21\@gmail.com \| [linkedin.com/in/dhwanimodi21](https://www.linkedin.com/in/dhwanimodi21)
+📞 (646) 656-2102  
+✉️ [modidhwani21@gmail.com](mailto:modidhwani21@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/dhwanimodi21)  
 
-------------------------------------------------------------------------
+---
+
+## Professional Summary
+
+Industrial-Organizational Psychology graduate from NYU with hands-on experience in organizational research, data analysis, and performance management. Adept at analyzing large datasets, translating insights into actionable recommendations, and collaborating across stakeholders to drive employee development and strategic decision-making. Seeking to support human capital initiatives through analytical rigor, client service, and cross-functional teamwork.
+
+---
 
 ## Education
 
-**New York University**, New York, NY\
-Master of Arts in Industrial and Organizational Psychology\
-*September 2023 – May 2025*\
-GPA: 3.87\
-Relevant coursework: Organization Development, Employee Training, Leadership and Strategic Change, Management Consulting, Performance Measurement & Rewards, Machine Learning, Conflict and Negotiation, Databases for Business Analytics.
+**New York University** — *New York, NY*  
+**M.A. in Industrial and Organizational Psychology**  
+*September 2023 – May 2025*  
+GPA: 3.87  
+Relevant Coursework: Organization Development, Employee Training, Leadership and Strategic Change, Management Consulting, Performance Measurement & Rewards, Machine Learning, Conflict and Negotiation, Business Analytics.
 
-**Pandit Deendayal Energy University**, Gandhinagar, Gujarat, India\
-Bachelor of Arts (Honors) in Psychology\
+**Pandit Deendayal Energy University** — *Gandhinagar, India*  
+**B.A. (Honors) in Psychology**  
 *July 2019 – May 2023*
 
-------------------------------------------------------------------------
+---
 
-## Projects
+## Consulting Experience & Projects
 
-### Machine Learning Project (New York University)
+**Machine Learning Project**  
+*NYU · Mar 2025 – Apr 2025*  
+- Built and evaluated classification models to predict trust levels in neighborhoods using survey and demographic data.  
+- Achieved 75.6% accuracy; identified civic participation, income, and safety as key predictors.
 
-*March 2025 – April 2025*\
-- Built and evaluated classification models (Random Forest, Decision Trees, Logistic Regression, Naïve Bayes Classification) to predict trust levels in neighborhoods using demographic and perception survey data.\
-- Achieved 75.6% model accuracy; evaluated performance using confusion matrices, precision/recall, and kappa statistics.\
-- Conducted feature‐importance analysis to interpret key predictors, including income level, civic participation, and neighborhood safety.
+**Performance Measurement: Business Presentation**  
+*NYU · Sep 2024 – Dec 2024*  
+- Assessed a tech firm’s appraisal and feedback systems; evaluated fairness and consistency.  
+- Proposed redesign using BARS methodology and the 70-20-10 training model.  
+- Delivered strategic presentation to simulate consulting recommendations.
 
-### Performance Measurement: Business Presentation (New York University)
+**Leadership Expert Consultant: Keystone Case Competition**  
+*NYU · Oct 2024*  
+- Served as leadership expert in an HR case competition, proposing talent and retention solutions.  
+- Applied change models and delivered data-driven pitch to external judges.
 
-*September 2024 – December 2024*\
-- Analyzed a tech company’s performance management system, including appraisal tools, evaluation criteria, and 360-degree feedback.\
-- Assessed links between performance ratings and outcomes like pay, development, and promotion.\
-- Proposed improvements using Behaviorally Anchored Rating Scales (BARS) and best practices to enhance fairness and consistency.\
-- Recommended manager training using the 70-20-10 model and delivered findings in a team presentation.
+**Organizational Development Intervention**  
+*NYU · Sep 2023 – Dec 2023*  
+- Conducted an OD diagnosis of a global investment firm using the Burke-Litwin Model.  
+- Identified root causes of analyst attrition and toxic performance pressure.  
+- Proposed reforms using Kotter’s Change Model and ASA framework.
 
-### Keystone Case Competition (New York University)
-
-*October 2024*\
-- Served as the leadership expert on a cross‐functional team in a university-level consulting competition.\
-- Analyzed a human resource management problem for a client, applying change-management frameworks to assess workplace challenges and suggest actionable solutions.\
-- Collaborated to identify key issues and develop a comprehensive strategy based on qualitative and quantitative analysis.\
-- Presented findings to a panel of industry experts, integrating both data‐driven insights and practical recommendations.
-
-### Employee Training in Organizations: Case Study Presentation (New York University)
-
-*January 2024 – May 2024*\
-- Conducted a comprehensive needs assessment for training programs, identifying KSAOs required by physicians and medical staff to leverage AI in diagnostics and patient care.\
-- Developed customized training environments, incorporating AI fundamentals and ethical/legal guidelines tailored for healthcare.\
-- Created innovative learning methods (VR simulations, live webinars, e-learning platforms) to ensure effective knowledge transfer.\
-- Established a structured evaluation plan to measure training success via direct observation, feedback loops, and on-the-job assessments.
-
-------------------------------------------------------------------------
+---
 
 ## Research Experience
 
-### Research Project: Factors Affecting Employee Perceptions of Professional Development in a Remote Work Setting (New York University)
+**Professional Development in Remote Work Settings**  
+*NYU · Jan 2024 – May 2024*  
+- Designed and conducted survey-based research; analyzed data using R.  
+- Explored factors impacting employee satisfaction and proposed mentorship strategies.
 
-*January 2024 – May 2024*\
-- Designed the research study and created a questionnaire targeting variables related to professional development and remote work.\
-- Performed statistical analysis (Descriptive Statistics, Individual t-tests, ANOVA, Correlation, Regression) in R to examine relationships between variables.\
-- Presented findings and recommendations to improve training and mentoring initiatives aimed at enhancing employee satisfaction and retention.
+**Work-Life Balance & Turnover Intentions**  
+*PDEU · Jan 2023 – May 2023*  
+- Surveyed employees to explore links between satisfaction, balance, and retention.  
+- Analyzed data using Excel; developed actionable HR policy recommendations.
 
-### Dissertation: Impact of Work-Life Balance on Employee Turnover Intentions And Determining Factors Causing Job Dissatisfaction (Pandit Deendayal Energy University)
-
-*January 2023 – May 2023*\
-- Designed the research study and crafted a questionnaire measuring work-life balance, job satisfaction, and turnover intentions.\
-- Conducted statistical analysis (Descriptive Statistics, ANOVA, Correlation, Regression) in Excel to evaluate the relationship between work-life balance factors and employee retention.\
-- Presented findings and recommendations to the dissertation panel, emphasizing practical implications for organizational policy and employee well-being.
-
-------------------------------------------------------------------------
+---
 
 ## Skills
 
--   **Statistical & Data Tools:** R, SQL, Microsoft Office, Qualtrics\
--   **Machine Learning:** Naïve Bayes, Decision Trees, Random Forest, Logistic Regression\
--   **Data Visualization & Analysis:** Data Collection, Statistical Analysis, Business Presentation, Data Visualization
--   **I/O Psychology:** Survey Design, Needs Assessment, Training & Development, Performance Measurement, Consulting\
--   **Soft Skills:** Leadership, Team Collaboration, Communication, Strategic Thinking
-
-------------------------------------------------------------------------
+**Technical Tools & Languages**: R, SQL, Excel, Qualtrics, PowerPoint  
+**Statistical Methods**: T-tests, ANOVA, Regression, Correlation, Clustering, Modeling  
+**Research & Analytics**: Data Collection, Survey Design, Data Cleaning, Predictive Modeling  
+**Business & Communication**: Presentations, Data Storytelling, Job Analysis, Strategic Frameworks
