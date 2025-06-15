@@ -2,7 +2,7 @@
 title: "Resume"
 ---
 
-# Dhwani Modi
+## Dhwani Modi
 
 New York, New York 10025 \| (646) 656-2102 \| modidhwani21\@gmail.com \| [linkedin.com/in/dhwanimodi21](https://www.linkedin.com/in/dhwanimodi21)
 

@@ -16,12 +16,16 @@ Below are a few highlights of my consulting, research, and capstone work. Click 
     *May 2024*\
     Surveyed 35 remote employees in R; ran t-tests, ANOVA, correlation, regression—recommended virtual mentorship programs and feedback loops.
 
-4.  [Dissertation: Work-Life Balance & Turnover Intentions](projects/Impact%20of%20Work-Life%20Balance%20on%20Employee%20Turnover%20Intentions%20and%20Determining%20the%20Factors%20Causing%20Job%20Dissatisfaction.pdf)\
-    *May 2023*\
-    Analyzed work-life factors via descriptive stats, ANOVA, correlation, regression in Excel; offered recommendations to reduce turnover and boost well-being.
-
-5.  [M&A Case Study: GRS & MejorVida](projects/M&A%20case%20study.pdf)\
+4.  [M&A Case Study: GRS & MejorVida](projects/M&A%20case%20study.pdf)\
     *Nov 2023*\
     Diagnosed cultural distance in a cross-border acquisition; used McKinsey’s model to design integration workshops, 360-feedback, and a phased OD plan.
+    
+5.  [Goldman Sachs: Organizational Change Case Study](projects/Goldman_Sachs_Org_Dev_Case_Study.pdf)\
+    *Dec 2023*\
+    Used the Burke-Litwin Model to analyze external pressures, leadership, and cultural dynamics at Goldman Sachs. Proposed OD interventions using Kotter’s Change Model to improve retention, reduce burnout, and realign the firm’s high-pressure culture with Gen Z workforce expectations.
+
+6.  [Dissertation: Work-Life Balance & Turnover Intentions](projects/Impact%20of%20Work-Life%20Balance%20on%20Employee%20Turnover%20Intentions%20and%20Determining%20the%20Factors%20Causing%20Job%20Dissatisfaction.pdf)\
+    *May 2023*\
+    Analyzed work-life factors via descriptive stats, ANOVA, correlation, regression in Excel; offered recommendations to reduce turnover and boost well-being.
 
 ------------------------------------------------------------------------
